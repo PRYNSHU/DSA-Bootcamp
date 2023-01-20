@@ -1,5 +1,5 @@
 # [Video Link](https://youtu.be/n60Dn0UsbEk)
-
+pending 10, 14
 ## Submit the following on your Leetcode profile itself.
 
 ### Easy
